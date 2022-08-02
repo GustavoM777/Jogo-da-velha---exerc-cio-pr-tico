@@ -1,4 +1,4 @@
-# Jogo-da-velha__exercicio-pratico
+# Jogo-da-velha__exercício-pratico
 <p align="center">Projeto jogo da velha desenvolvido com base na linguegem Javascript.</p>
 
 <p align="center"><i>"Seja bem-vindo" </i> </p>
